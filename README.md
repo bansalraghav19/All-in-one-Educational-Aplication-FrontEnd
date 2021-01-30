@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 A react app that makes all educational resources required for students at one place where they can a end on-demand recorded video lectures, give mock tests, personal doubt clearing with teachers, premium content for subscribed users and track their performance easily for further improvements. It will benefits students living in remote parts of the country and promotes quality education to all.
 
-Back-end Repository: https://github.com/raushan303/educate
+Back-end Repository: https://github.com/bansalraghav19/educate
 
 App is Deployed on : https://simply-learn.herokuapp.com/
 
